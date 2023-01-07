@@ -31,11 +31,11 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
-    margin-top: 50px;
+    /* margin-top: 50px; */
     font-weight: 800;
     font-size: 45px;
 }
@@ -47,7 +47,7 @@ nav ul {
 
 nav li {
     list-style: none;
-    margin: 50px;
+    margin-left: 50px;
 }
 
 /* banner styles */
